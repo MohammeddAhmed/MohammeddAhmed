@@ -3,11 +3,12 @@
 <h3 align="center">Interested in Mobile Development with Flutter.</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=techmakers96&label=Profile%20views&color=0e75b6&style=flat" alt="MohammeddAhmed" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=techmakers96&label=Profile%20views&color=0e75b6&style=flat" alt="mohammeddahmed" /> </p>
 
 <p align="left"> <a href="https://twitter.com/tech_makers1" target="blank"><img src="https://img.shields.io/twitter/follow/tech_makers1?logo=twitter&style=for-the-badge" alt="tech_makers1" /></a> </p>
 
-<p align="left"> <img src="[https://techmakers.tech/wp-content/themes/TechMakers-WP/assets/img/hero-img.png](https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif?raw=true)" align="right" alt="Techmakers" width="450" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
+    alt="adam-pw" align="right" alt="Techmakers" width="450" /> </p>
 
 - 📫 How to reach me **moha159000@gmail.com**
 
