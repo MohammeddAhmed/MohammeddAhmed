@@ -3,7 +3,7 @@
 <h3 align="center">Interested in Mobile Development with Flutter.</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=techmakers96&label=Profile%20views&color=0e75b6&style=flat" alt="mohammeddahmed" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=techmakers96&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed ahmed" /> </p>
 
 - 📫 How to reach me **moha159000@gmail.com**
 
